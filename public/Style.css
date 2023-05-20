@@ -41,3 +41,13 @@ ul {
     border-radius: 5px;
     cursor: pointer;
   }
+  button:hover, .button:hover {
+    background-color: #555;
+  }
+  #menu{
+    text-align: center;
+  
+  }
+  section{
+    background-color: #fae0a9;
+  }
