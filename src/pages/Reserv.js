@@ -1,0 +1,1 @@
+document.getElementById("ReservForm").addEventListener("submit")

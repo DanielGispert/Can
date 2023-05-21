@@ -1,7 +1,7 @@
 body {
-    background-color: rgb(252, 244, 234);
+  background-color: #eee7da;
 }
-h1{
+h1,h3{
     text-align: center;
     color: #333;
 }
@@ -49,5 +49,5 @@ ul {
   
   }
   section{
-    background-color: #fae0a9;
+    background-color: rgb(252, 244, 234);
   }
